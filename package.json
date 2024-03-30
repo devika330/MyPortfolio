@@ -1,5 +1,4 @@
 {
-  "homepage": "https://devika330/Portfolio",
   "name": "portfolio-23",
   "version": "0.1.0",
   "private": true,
@@ -17,8 +16,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
